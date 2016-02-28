@@ -1,0 +1,32 @@
+_repo: Widger-s-Quotations-from-the-Project-Gutenberg-Editions-of-Paine-s-Writings-on-Mark-Twain_3643
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_bookshelf: Project Gutenberg
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcc 'PS'
+title: Widger's Quotations from the Project Gutenberg Editions of Paine's Writings
+  on Mark Twain
+url: http://www.gutenberg.org/ebooks/3643
