@@ -1,5 +1,5 @@
 _repo: Widger-s-Quotations-from-the-Project-Gutenberg-Editions-of-Paine-s-Writings-on-Mark-Twain_3643
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -7,6 +7,9 @@ contributor:
       birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Paine, Albert Bigelow
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1076
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3643#Widger-s-Quotations-from-the-Project-Gutenberg-Editions-of-Paine-s-Writings-on-Mark-Twain
 gutenberg_bookshelf: Project Gutenberg
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
