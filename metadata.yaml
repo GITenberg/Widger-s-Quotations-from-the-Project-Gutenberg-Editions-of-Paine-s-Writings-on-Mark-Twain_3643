@@ -1,5 +1,5 @@
 _repo: Widger-s-Quotations-from-the-Project-Gutenberg-Editions-of-Paine-s-Writings-on-Mark-Twain_3643
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -33,6 +33,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Quotations'
 - !lcc 'PS'
+- GITenberg
 title: Widger's Quotations from the Project Gutenberg Editions of Paine's Writings
   on Mark Twain
 url: http://www.gutenberg.org/ebooks/3643
